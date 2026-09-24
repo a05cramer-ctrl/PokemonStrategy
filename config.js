@@ -1,4 +1,4 @@
-// Pokemon Strategy ($PKMN) — edit this file only.
+// Pokemon Strategy ($POKEVAULT) — edit this file only.
 // PAD: "pumpfun" or "stonkfun" (PAIR = the quote asset as StonkFun writes it)
 // WALLET: the public strategy wallet that collects the fees (shows a live SOL balance on the site)
 // LOG: every card bought. Each entry fills the next case in the 3D vault and adds a row to the ledger.
@@ -6,11 +6,11 @@
 //     cert:"12345678", paid:"$1,250", tx:"<solana tx signature, optional>", img:"cards/umbreon.jpg (optional card photo, portrait)" }
 window.PKMN_CFG = {
   NAME: "Pokemon Strategy",
-  TICKER: "PKMN",
+  TICKER: "POKEVAULT",
   CA: "",
   CHAIN: "solana",
-  PAD: "",
-  PAIR: "",
+  PAD: "stonkfun",
+  PAIR: "CARDS",
   X: "",
   BUY: "",
   CHART: "",
