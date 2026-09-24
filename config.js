@@ -7,11 +7,11 @@
 window.PKMN_CFG = {
   NAME: "Pokemon Strategy",
   TICKER: "POKEVAULT",
-  CA: "",
+  CA: "7JFat4J57AYxmxtb7nZfeVv45vzDAnosutiaGoADbDyg",
   CHAIN: "solana",
   PAD: "stonkfun",
   PAIR: "CARDS",
-  X: "",
+  X: "https://x.com/pokestrategyapp",
   BUY: "",
   CHART: "",
   WALLET: "",
